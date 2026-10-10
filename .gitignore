@@ -11,6 +11,7 @@ package-lock.json
 vite.config.js
 tailwind.config.js
 postcss.config.js
+scripts/
 index.html
 
 # Ortam ve loglar
