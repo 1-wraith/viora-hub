@@ -1,0 +1,21 @@
+# Sadece Dağıtım Deposu: Kaynak Kodları Gizli (Closed-Source)
+# Aşağıdaki tüm kaynak kodları ve geliştirici yapılandırmaları git tarafından yok sayılır:
+src/
+electron/
+dist/
+release/
+node_modules/
+firestore.rules
+package.json
+package-lock.json
+vite.config.js
+tailwind.config.js
+postcss.config.js
+index.html
+
+# Ortam ve loglar
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
